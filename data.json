@@ -1,0 +1,47 @@
+[
+    {
+        "emp_num": "25-00001",
+        "name": "Ysmael Sibonga",
+        "designation": "CEO",
+        "rate": 2000,
+        "address": {
+            "city": "Novaliches City",
+            "brgy": "101",
+            "street": "Maharlika"
+        }
+    },
+    {
+        "emp_num": "123123",
+        "name": "aasdsadas",
+        "designation": "asdasdsa",
+        "rate": 2000,
+        "address": {
+            "city": "sadsadsa",
+            "brgy": "sadsad",
+            "street": "asdsad"
+        }
+    },
+    {
+        "emp_num": "23-00708",
+        "name": "Jaymes Karl Jaramilow",
+        "designation": "Yadup",
+        "contactno": "0993938162",
+        "rate": 10000,
+        "address": {
+            "city": "Quezon City",
+            "brgy": "Kaligayahan",
+            "street": "Zabarte"
+        }
+    },
+    {
+        "emp_num": "23-01319",
+        "name": "Ervin Jay Anonuevo Sibonga",
+        "designation": "Yadup",
+        "rate": 50,
+        "address": {
+            "city": "Caloocan City",
+            "brgy": "Brgy. 169",
+            "street": "Phase 9"
+        }
+    }
+]
